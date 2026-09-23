@@ -1,0 +1,36 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" xmlns="http://www.w3.org/2000/svg">
+  
+    <defs>
+      <linearGradient id="bgg8" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#161311"/>
+        <stop offset="55%" stop-color="#1F1B18"/>
+        <stop offset="100%" stop-color="#0D0B0A"/>
+      </linearGradient>
+      <radialGradient id="glowg8" cx="50%" cy="35%" r="70%">
+        <stop offset="0%" stop-color="#B96A45" stop-opacity="0.35"/>
+        <stop offset="100%" stop-color="#B96A45" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="graing8" width="6" height="6" patternUnits="userSpaceOnUse">
+        <rect width="6" height="6" fill="transparent"/>
+        <circle cx="1" cy="1" r="0.4" fill="#F3ECE1" opacity="0.03"/>
+      </pattern>
+    </defs>
+    
+  <rect width="900" height="1200" fill="url(#bgg8)"/>
+  <rect width="900" height="1200" fill="url(#glowg8)"/>
+  <rect width="900" height="1200" fill="url(#graing8)"/>
+  <g transform="translate(162.0,900.0) rotate(-15) scale(1.6)" opacity="0.12">
+      <path d="M0,0 C 40,-10 60,-50 20,-70 C -20,-90 -60,-60 -50,-20 C -42,10 -20,30 0,0 Z" fill="#B08D57"/>
+      <circle cx="-2" cy="-2" r="6" fill="#F3ECE1" opacity="0.5"/>
+    </g><g transform="translate(765.0,264.0) rotate(20) scale(2.1)" opacity="0.15">
+      <path d="M0,0 C 40,-10 60,-50 20,-70 C -20,-90 -60,-60 -50,-20 C -42,10 -20,30 0,0 Z" fill="#B96A45"/>
+      <circle cx="-2" cy="-2" r="6" fill="#F3ECE1" opacity="0.5"/>
+    </g><g transform="translate(495.00000000000006,1080.0) rotate(5) scale(1.3)" opacity="0.1">
+      <path d="M0,0 C 40,-10 60,-50 20,-70 C -20,-90 -60,-60 -50,-20 C -42,10 -20,30 0,0 Z" fill="#7A6558"/>
+      <circle cx="-2" cy="-2" r="6" fill="#F3ECE1" opacity="0.5"/>
+    </g>
+  <line x1="390.0" y1="634.0" x2="510.0" y2="634.0" stroke="#B08D57" stroke-width="1" opacity="0.6"/>
+  <text x="50%" y="50%" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#F3ECE1" opacity="0.9" letter-spacing="1">BRIDAL</text>
+  <text x="50%" y="660.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7A6558" letter-spacing="3">GALLERY PLACEHOLDER 08</text>
+  <text x="16" y="1184" font-family="Arial, sans-serif" font-size="11" fill="#F3ECE1" opacity="0.25">portrait — REPLACE WITH CLIENT PHOTO</text>
+</svg>
